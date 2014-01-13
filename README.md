@@ -1,6 +1,8 @@
-apssalud
-========
+#Esta es la pagina estatica de prueba
+git push origin gh-pages
 
-apssalud site - health care 
+#Pagina del sitio
+http://lmpetek.github.com/apsweb
 
-url site http://lmpetek.github.io/apssalud/
+#recupera el historial inverso en la terminal
+ctrl+r
